@@ -9,7 +9,7 @@ The files in this repository were used to configure the network depicted below.
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook file may be used to install only certain pieces of it, such as Filebeat.
 
-- _install-elk.yml_
+- _[install-elk.yml](https://github.com/dragonfoxkid/Project-1-AD/blob/ca320b18d57d5d887d07355a9906900e96e943b3/install-elk.yml%20%5BTEXT%20FILE%5D)_
 
 This document contains the following details:
 - Description of the Topology
